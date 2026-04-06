@@ -6,9 +6,7 @@ This project is part of a Data Science internship task.
 The goal is to analyze student performance using Python by following the steps:
 
 ##Load Dataset
-
 Clean Data
-
 Analyze Data
 Visualize Results
 Draw Conclusions
