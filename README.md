@@ -6,10 +6,15 @@ This project is part of a Data Science internship task.
 The goal is to analyze student performance using Python by following the steps:
 
 ##Load Dataset
+
 Clean Data
+
 Analyze Data
+
 Visualize Results
+
 Draw Conclusions
+
 🔹 2. Loading Dataset
 📥 Step 1: Loading the Dataset
 In this step, we import necessary Python libraries like pandas, numpy, matplotlib, and seaborn.
