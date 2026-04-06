@@ -63,7 +63,9 @@ The average grade gives an idea of overall performance
 Students with higher study time tend to score better
 The number of students scoring above 15 shows high performers
 Gender comparison shows performance differences
-These insights help understand key factors affecting student success. 🔹 7. Conclusion
+These insights help understand key factors affecting student success. 
+
+🔹 7. Conclusion
 
 ✅ Conclusion
 Data cleaning is an important first step in data analysis
