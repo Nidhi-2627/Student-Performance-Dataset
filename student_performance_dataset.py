@@ -77,8 +77,7 @@ plt.ylabel("Average Grade")
 plt.show()
 
 
-#BONUS (Optional but impressive)
-#Use seaborn for better visualization:
+
 
 """# ***MARKDOWN CONTENT FOR YOUR NOTEBOOK***
 🔹 1. Title Section
